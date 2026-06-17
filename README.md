@@ -28,3 +28,25 @@ Data Collection
 → Business Insights
 → Dashboard Development
 → Forecasting
+
+
+
+✅ Data Cleaning
+✅ Feature Engineering
+✅ Database Design
+✅ Customer Dimension
+✅ Product Dimension (with surrogate key)
+✅ Geography Dimension
+⏳ Orders Fact Table
+⏳ SQL Analytics
+⏳ Power BI Dashboard
+
+Data Cleaning            ✅
+Dimension Tables         ✅
+Orders Fact Table        ⏳ (current step)
+SQL Analytics            ⬜
+Python EDA               ⬜
+Forecasting              ⬜
+Power BI Dashboard       ⬜
+Documentation            ⬜
+GitHub Portfolio         ⬜
