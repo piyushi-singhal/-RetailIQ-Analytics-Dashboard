@@ -184,7 +184,7 @@ Provides a high-level business performance snapshot:
 
 **Dashboard Screenshot**
 
-![Executive Overview](screenshots/dashboard1.png)
+![Executive Overview](Screenshots/Dashboard1.png)
 
 ---
 
@@ -199,7 +199,7 @@ Analyzes customer behavior and segment performance:
 
 **Dashboard Screenshot**
 
-![Customer Analytics](screenshots/dashboard2.png)
+![Customer Analytics](Screenshots/Dashboard2.png)
 
 ---
 
@@ -214,7 +214,7 @@ Evaluates category and product-group performance:
 
 **Dashboard Screenshot**
 
-![Product Analytics](screenshots/dashboard3.png)
+![Product Analytics](Screenshots/Dashboard3.png)
 
 ---
 
@@ -230,7 +230,7 @@ Focuses on profitability optimization and discount effectiveness:
 
 **Dashboard Screenshot**
 
-![Profitability Analytics](screenshots/dashboard4.png)
+![Profitability Analytics](Screenshots/Dashboard4.png)
 
 ---
 
